@@ -1,0 +1,55 @@
+feedback_id,source,rating,message
+F001,email,3,Please let me download decks to use without internet.
+F002,in_app_survey,4,Can the app generate quiz questions from my lecture notes?
+F003,reddit,4,Study rooms are text only. Would love video.
+F004,email,1,I was charged $4.99 twice this month for premium. Please refund.
+F005,reddit,3,"I'd kill for an offline mode, I lose signal on my commute every day."
+F006,app_store,3,Great app but the white screen is blinding at 2am. Please add a dark mode!
+F007,email,4,Would love a night mode option.
+F008,app_store,1,Anything over 500 cards crashes the app. Fix this!
+F009,reddit,4,Auto-generated practice tests please!
+F010,app_store,2,"Notifications are annoying, there should be more control than just on/off."
+F011,reddit,3,"Moving my decks over from Quizlet takes forever, need a direct import."
+F012,in_app_survey,3,"I use Apple Calendar, can the study planner sync with it?"
+F013,app_store,5,"Love the streaks, they keep me going every day."
+F014,email,1,The app doesn't work with my screen reader at all. I'm blind and I'm speaking to a lawyer about this.
+F015,in_app_survey,1,When I open the library I can see another person's decks with their name on them. Is my stuff visible to others too?
+F016,email,4,Google Calendar sync works but I need Outlook for my university account.
+F017,app_store,2,Too many reminders. I can't pick when they arrive.
+F018,email,2,"Importing from Quizlet is a nightmare, the CSV thing breaks my formatting."
+F019,in_app_survey,3,Make flashcards automatically from a PDF of my textbook chapter.
+F020,app_store,4,Love this app! Would be perfect with dark mode.
+F021,app_store,3,Please add iCloud calendar support.
+F022,email,1,I updated the app and all 300 of my flashcards are gone. I have finals next week!
+F023,app_store,1,Someone in my study room kept sending me threatening messages and I can't block them.
+F024,in_app_survey,4,Sync with my school's Outlook calendar would be a game changer.
+F025,app_store,3,No offline mode means I can't study on the subway.
+F026,app_store,3,I have 40 Quizlet decks. Can I import them without retyping everything?
+F027,in_app_survey,2,My streak reset to zero even though I studied yesterday!
+F028,app_store,5,Best study app I've used. The spaced repetition actually works.
+F029,in_app_survey,3,Please support Anki imports.
+F030,in_app_survey,3,Is there a dark theme? My eyes hurt studying at night.
+F031,app_store,2,Study timer resets whenever I lock my phone.
+F032,in_app_survey,3,Where can I track my grades and calculate my GPA?
+F033,email,5,Thank you for making this. Study rooms with my friends are the best.
+F034,app_store,4,An AI that turns my notes into flashcards would save so much time.
+F035,in_app_survey,3,Want a proper iPad app with split screen next to my notes.
+F036,app_store,3,Why no dark mode in 2026? Every other study app has it.
+F037,app_store,3,"There's no iPad version, the phone layout looks tiny and stretched."
+F038,email,4,Would love AI summaries of my notes before exams.
+F039,app_store,1,doesn't work
+F040,in_app_survey,5,"Simple, clean, and it helped me pass organic chemistry."
+F041,email,4,Any plans for an iPad-optimized layout?
+F042,email,3,Would be nice to have a GPA calculator built in.
+F043,email,2,Pomodoro timer stops when the app is in the background on iPhone.
+F044,app_store,1,Terrible. Waste of time.
+F045,email,3,Can I choose what time the daily study reminder comes?
+F046,app_store,1,Crashes every time I open my 600-card biology deck. Android.
+F047,email,2,App freezes then closes on my big decks (Samsung).
+F048,app_store,3,Group rooms should have voice chat at least.
+F049,app_store,4,Add a grade tracker so I can see my GPA in one place.
+F050,app_store,4,"Great flashcards, but they need internet. Offline support please."
+F051,in_app_survey,2,The library basement has no wifi and my flashcards won't load.
+F052,in_app_survey,3,Add video calls to the study rooms so we don't need Zoom.
+F053,in_app_survey,3,Let me set quiet hours so I don't get pinged at midnight.
+F054,in_app_survey,2,Large decks make the Android app crash on load.
